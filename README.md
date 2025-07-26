@@ -1,1 +1,1 @@
-# sodel_sta2200
+# STA 2200 - Probability and Statistics II
