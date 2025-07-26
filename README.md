@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # STA 2200 - Probability and Statistics II
 
 ## Learning outcomes
